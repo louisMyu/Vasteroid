@@ -1,0 +1,4 @@
+c:\users\louis\documents\visual studio 2013\Projects\TimeToLive\FarSeerPort81\FarSeerPort81.csproj;x86
+c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\VectorShooter.csproj;x86
+Z:\GIT\MonoGameDevelop2\MonoGame.Framework\MonoGame.Framework.WindowsPhone81.csproj;x86
+Z:\GIT\MonoGameDevelop2\MonoGame.Framework\MonoGame.Framework.WindowsPhone81.csproj;x86

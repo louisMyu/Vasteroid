@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KOMPY</Machine>
+    <WindowsUser>Louis</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>1daba941-cfdf-413d-a68b-c8d94eb9d92b</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\bin\x86\Debug\VectorShooter.exe">
+      <PackagePath>VectorShooter.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Louis\Documents\Visual Studio 2013\Projects\TimeToLive\FarSeerPort81\bin\x86\Debug\FarSeerPort81.dll">
+      <PackagePath>FarSeerPort81.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GIT\MonoGameDevelop2\MonoGame.Framework\bin\x86\Debug\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GIT\MonoGameDevelop2\MonoGame.Framework\bin\x86\Debug\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GIT\MonoGameDevelop2\MonoGame.Framework\bin\x86\Debug\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GIT\MonoGameDevelop2\MonoGame.Framework\bin\x86\Debug\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GIT\MonoGameDevelop2\MonoGame.Framework\bin\x86\Debug\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GIT\MonoGameDevelop2\MonoGame.Framework\bin\x86\Debug\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GIT\MonoGameDevelop2\MonoGame.Framework\bin\x86\Debug\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Content\Bullet.xnb">
+      <PackagePath>Content\Bullet.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Content\Player.xnb">
+      <PackagePath>Content\Player.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Content\Pointer.xnb">
+      <PackagePath>Content\Pointer.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Content\Seeker.xnb">
+      <PackagePath>Content\Seeker.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Content\Wanderer.xnb">
+      <PackagePath>Content\Wanderer.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Content\Black Hole.xnb">
+      <PackagePath>Content\Black Hole.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Content\Glow.xnb">
+      <PackagePath>Content\Glow.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\Content\Laser.xnb">
+      <PackagePath>Content\Laser.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\bin\x86\Debug\GamePage.xbf">
+      <PackagePath>GamePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\bin\x86\Debug\VectorShooter.xr.xml">
+      <PackagePath>VectorShooter.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\louis\documents\visual studio 2013\Projects\VectorShooter\VectorShooter\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
